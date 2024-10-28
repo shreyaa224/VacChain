@@ -28,7 +28,7 @@ Install my-project with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/Otherwa/VacChain
+  git clone https://github.com/shreyaa224/VacChain
 ```
 
 Go to the project directory
@@ -62,9 +62,4 @@ Start the Server/Client
 ![VacChain - Page 1](https://github.com/Otherwa/VacChain/assets/67428572/4ec9a8a3-4632-4c51-84e9-1beb19a0da13)
 
 
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at atharvdesai2002@gmail.com
 
